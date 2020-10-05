@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+header a {
+  font-family: "Montserrat", sans-serif;
+}
+
+.intro {
+  background-image: url("/img/john-arano-h4i9G-de7Po-unsplash\ 1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.intro-text {
+  margin-bottom: 15rem;
+}
+
+.intro-text h2 {
+  font-size: 3rem;
+}
+
+.intro-text h3 {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.class-head {
+  padding: 8rem;
+  color: white;
+}
+
+.card {
+  color: white;
+}
+
+.classes {
+  background: #000000;
+}
+
+.quote {
+  background-image: url("/img/pexels-karl-solano-2780762\ 1.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.contact {
+  background-image: url(/img/cindy-koops-NBCuJtqgGX8-unsplash\ 1.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 90vh;
+}
